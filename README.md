@@ -3,7 +3,7 @@ Will output data about a directory, including size and every file inside of it t
 
 ### Usage
 ```
-python3 skimmer.py <input directory> <output file .csv>
+python3 skimmer.py -i <input directory> -o <output file .csv>
 ```
 
 * `input directory`: The directory to scan (e.g. `~/Documents`)
