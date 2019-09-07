@@ -1,6 +1,9 @@
+![Header Image](.assets/hero-image.png)
 # py-skimmer
-Will output data about a directory, including size and every file inside of it to a CSV
+A CLU for creating a data representation of a directory's files.
 
+### Sample Output
+![Output Style](.assets/output-style.png)
 ### Usage
 ```
 python3 skimmer.py -i <input directory> -o <output file .csv>
