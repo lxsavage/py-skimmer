@@ -1,9 +1,10 @@
-![Header Image](.assets/hero-image.png)
+![Header Image](https://github.com/r2d2292/py-skimmer/blob/master/.assets/hero-image.png)
 # py-skimmer
 A CLU for creating a data representation of a directory's files.
 
 ### Sample Output
-![Output Style](.assets/output-style.png)
+![Output Style](https://github.com/r2d2292/py-skimmer/blob/master/.assets/output-style.png)
+
 ### Usage
 ```
 python3 skimmer.py -i <input directory> -o <output file .csv>
