@@ -1,9 +1,9 @@
-![Header Image](https://github.com/r2d2292/py-skimmer/blob/master/.assets/hero-image.png)
+![Header Image](https://raw.githubusercontent.com/r2d2292/py-skimmer/master/.assets/hero-image.png)
 # py-skimmer
 A CLU for creating a data representation of a directory's files.
 
 ### Sample Output
-![Output Style](https://github.com/r2d2292/py-skimmer/blob/master/.assets/output-style.png)
+![Output Style](https://raw.githubusercontent.com/r2d2292/py-skimmer/master/.assets/output-style.png)
 
 ### Usage
 ```
